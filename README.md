@@ -38,6 +38,8 @@ sudo pacman -S espeak-ng speech-dispatcher orca onboard
 ```
 ```
 sudo pacman -U mbrola-3.0.1h-5-x86_64.pkg.tar.xz
+sudo pacman -U mbrola-voices-br1-971105-5-any.pkg.tar.xz
+sudo pacman -U mbrola-voices-br4-1-2-any.pkg.tar.xz
 sudo pacman -U mbrola-voices-br3-000119-4-any.pkg.tar.xz
 ```
 #
@@ -88,4 +90,6 @@ cp /etc/xdg/autostart/onboard-autostart.desktop ~/.config/autostart/
 ###### Angelo é o nome do meu falecido Pai. AngeloTTS é uma homenagem a João Angelo. Verdadeiro Pai Herói. ######
 ###### Maricota é o apelido da minha Mãe, MaricotaTTS é uma homenagem a Dona Maria. "Pequena", grande guerreira. ######
 ###### NordestinoTTS é uma homenagem, ao povo brasileiro nordestino. Pessoas maravilhosas, hospitaleiras e alegres. ######
-#### Licence: GPLv3 ####
+##### Vejam também, Guglina TTS, o sintetizador de voz, que usa a API de conversão de texto em fala do Google Tradutor ##### 
+###### https://github.com/felipefacundes/guglinatts ######
+#### Todo os sintetizadores, usam a licença: GPLv3 ####
