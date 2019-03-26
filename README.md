@@ -4,6 +4,7 @@ Brasil TTS é um conjunto de sintetizadores de voz, em **português do Brasil**,
 Está sob a égide da **licença**:
 ### GPLv3
 > Mantenedor: Felipe Facundes
+###### Site: https://brasiltts.wordpress.com/
 ###### E-Mail: felipe.facundes@gmail.com
 ###### Telegram: https://t.me/comandos_linux
 #
