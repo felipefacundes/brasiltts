@@ -108,7 +108,7 @@ https://github.com/felipefacundes/angelotts
 **Para MaricotaTTS**
 https://github.com/felipefacundes/maricotatts
     
-**Vejam também, Guglina TTS, o sintetizador de voz, que usa a API de conversão de texto em fala do Google Tradutor**
+**Para GuglinaTTS - a VOZ que usa a API do Google Tradutor**
 https://github.com/felipefacundes/guglinatts
     
 **Para NordestinoTTS**
