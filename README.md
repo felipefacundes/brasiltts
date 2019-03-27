@@ -3,9 +3,11 @@
 Brasil TTS é um conjunto de sintetizadores de voz, em **português do Brasil**, que lê telas para portadores de deficiência visual. Transforma texto em áudio, permitindo que pessoas cegas ou com baixa visão tenham acesso ao conteúdo exibido na tela. Embora o principal público-alvo de sistemas de conversão texto-fala – como o Brasil TTS – seja formado por pessoas com deficiência visual, esse tipo de programa pode ser usado por pessoas com dislexia e outras dificuldades de leitura, pessoas com deficiência severa de fala, bem como por crianças pré-alfabetizadas. Além de ser uma ferramenta de tecnologia assistiva, sintetizadores de voz podem ter ainda aplicações pedagógicas e de entretenimento.
 Está sob a égide da **licença**:
 ### GPLv3
-  
-  
-**Atenção**: fora observado que flui melhor a sintetização de voz no sistema, tendo apenas uma das vozes de sua preferência, ao invés de todas. Continue lendo…
+    
+    
+**Atenção**: fora observado que flui melhor a sintetização de voz no sistema, tendo apenas uma das vozes **de sua preferência**, ao invés de todas. **Continue lendo…**
+    
+    
 > Mantenedor: Felipe Facundes
 ###### Site: https://brasiltts.wordpress.com/
 ###### Blog: https://brasiltts.blogspot.com/
