@@ -116,7 +116,7 @@ https://github.com/felipefacundes/nordestinotts
 
 <br></br>
     
-###### Angelo é o nome do meu falecido Pai. AngeloTTS é uma homenagem a João Angelo. Verdadeiro Pai Herói. ######
+###### Angelo é o nome do meu saudoso Pai. AngeloTTS é uma homenagem a João Angelo. Verdadeiro Pai Herói. ######
 ###### Maricota é o apelido da minha Mãe, MaricotaTTS é uma homenagem a Dona Maria. "Pequena", grande guerreira. ######
 ###### NordestinoTTS é uma homenagem, ao povo brasileiro nordestino. Pessoas maravilhosas, hospitaleiras e alegres. ######
 ###### Guglina é um acrônimo de: Google + Regina. Uma homenagem à Paulista: Regina Bittar, responsável pela voz do Google no Brasil. ######
