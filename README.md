@@ -102,16 +102,16 @@ Você poderá instalar cada personagem de VOZ, **individualmente**.
 Instalar **individualmente**, funciona melhor do que ter às três vozes no sistema. Para instalar a voz **da sua preferência**, basta visitar o repositório **individual**, de cada projeto.
     
 <br></br>
-**Para AngeloTTS**
+**Para AngeloTTS -**
 https://github.com/felipefacundes/angelotts
     
-**Para MaricotaTTS**
+**Para MaricotaTTS -**
 https://github.com/felipefacundes/maricotatts
     
-**Para GuglinaTTS - a VOZ que usa a API do Google Tradutor**
+**Para GuglinaTTS - a VOZ que usa a API do Google Tradutor -**
 https://github.com/felipefacundes/guglinatts
     
-**Para NordestinoTTS**
+**Para NordestinoTTS -**
 https://github.com/felipefacundes/nordestinotts
 
 <br></br>
