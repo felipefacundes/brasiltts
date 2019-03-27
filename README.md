@@ -5,7 +5,7 @@ Está sob a égide da **licença**:
 ### GPLv3
     
     
-**Atenção**: fora observado que flui melhor a sintetização de voz no sistema, tendo apenas uma das vozes **de sua preferência**, ao invés de todas. **Continue lendo…**
+**Atenção**: fora observado que flui melhor a sintetização de voz no sistema, tendo apenas **uma** das vozes **de sua preferência**, ao invés de todas. **Continue lendo…**
     
     
 > Mantenedor: Felipe Facundes
