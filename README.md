@@ -94,9 +94,34 @@ cp /etc/xdg/autostart/onboard-autostart.desktop ~/.config/autostart/
 ```
 ### Ativar o onboard é necessário, para que programas que tenham o recurso de acessibilidade, ###
 ### como o OKULAR, possam funcionar corretamente. Não deixe de ativar o onboard! ;) ###
+
+#
+Você poderá instalar cada personagem de VOZ, **individualmente**.
+    
+    
+Instalar **individualmente**, funciona melhor do que ter às três vozes no sistema. Para instalar a voz **da sua preferência**, basta visitar o repositório **individual**, de cada projeto.
+    
+    
+**Para AngeloTTS**
+https://github.com/felipefacundes/angelotts
+    
+    
+**Para MaricotaTTS**
+https://github.com/felipefacundes/maricotatts
+    
+    
+**Para GuglinaTTS a VOZ que usa a API do Google Tradutor**
+https://github.com/felipefacundes/guglinatts
+    
+    
+**Para NordestinoTTS**
+https://github.com/felipefacundes/nordestinotts
+    
+    
 ###### Angelo é o nome do meu falecido Pai. AngeloTTS é uma homenagem a João Angelo. Verdadeiro Pai Herói. ######
 ###### Maricota é o apelido da minha Mãe, MaricotaTTS é uma homenagem a Dona Maria. "Pequena", grande guerreira. ######
 ###### NordestinoTTS é uma homenagem, ao povo brasileiro nordestino. Pessoas maravilhosas, hospitaleiras e alegres. ######
 ##### Vejam também, Guglina TTS, o sintetizador de voz, que usa a API de conversão de texto em fala do Google Tradutor ##### 
+###### Guglina é um acrônimo de: Google + Regina. Uma homenagem à Paulista: Regina Bittar, responsável pela voz do Google no Brasil. ######
 ###### https://github.com/felipefacundes/guglinatts ######
 #### Todo os sintetizadores, usam a licença: GPLv3 ####
