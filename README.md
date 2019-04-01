@@ -122,3 +122,18 @@ https://github.com/felipefacundes/nordestinotts
 ###### Guglina é um acrônimo de: Google + Regina. Uma homenagem à Paulista: Regina Bittar, responsável pela voz do Google no Brasil. ######
 <br></br>
 #### Todo os sintetizadores, usam a licença: GPLv3 ####
+
+<br></br>
+
+```
+┏┓
+┃┃╱╲ nesta
+┃╱╱╲╲ casa
+╱╱╭╮╲╲ todos
+▔▏┗┛▕▔ usam
+╱▔▔▔▔▔▔▔▔▔▔╲
+LINUX
+╱╱┏┳┓╭╮┏┳┓ ╲╲
+▔▏┗┻┛┃┃┗┻┛▕▔
+--------------------------
+```
