@@ -13,7 +13,9 @@ Está sob a égide da **licença**:
 ###### Blog: https://brasiltts.blogspot.com/
 ###### E-Mail: felipe.facundes@gmail.com
 ###### Telegram: https://t.me/comandos_linux
-#
+
+<br/>
+
 ### Instalação:
 
     git clone https://github.com/felipefacundes/brasiltts
@@ -29,7 +31,7 @@ yes s | sh INSTALL.sh
 sudo cp *tts-generic.conf /etc/speech-dispatcher/modules/
 sudo cp speechd.conf /etc/speech-dispatcher/
 ```     
-#
+
 ### Instalação de Dependências:
 
 - **As Dependências São:**
@@ -38,8 +40,9 @@ sudo cp speechd.conf /etc/speech-dispatcher/
   - orca
   - onboard
 
-#
+
 - **Instalação pelo ArchLinux**
+
 ```
 sudo pacman -S espeak-ng speech-dispatcher orca onboard
 ```
@@ -49,7 +52,7 @@ sudo pacman -U mbrola-voices-br1-971105-5-any.pkg.tar.xz
 sudo pacman -U mbrola-voices-br4-1-2-any.pkg.tar.xz
 sudo pacman -U mbrola-voices-br3-000119-4-any.pkg.tar.xz
 ```
-#
+
 - **Pelo Debian e derivados:**
   - Caso não tenha o mbrola no repositório.
   - Deverá primeiro, converter os pacotes ".tar.xz" em ".deb"
@@ -66,7 +69,7 @@ sudo dpkg -i *.deb
 #### Fedora e derivados: o alien também gera pacotes ".rpm"
     fakeroot alien -r "nome".pkg.tar.gz
 
-#
+
 ### Finalizando Instalação
 
 - Feche tudo e mate a sessão
@@ -83,7 +86,7 @@ orca -s
   - Sintetizador de fala: **angelotts / ou, maricotatts / ou, nordestinotts**
   - Personagem: **Voz padrão para angelotts (pt) / maricotatts (pt) / nordestinotts (pt)**
 
-#
+
 ### Caso o onboard não esteja iniciando, junto com o sistema. Inclua no ~/.xinitrc
 ``` 
 onboard --not-show-in=GNOME,GNOME-Classic:GNOME --startup-delay=3.0 &
@@ -94,14 +97,14 @@ cp /etc/xdg/autostart/onboard-autostart.desktop ~/.config/autostart/
 ```
 ### Ativar o onboard é necessário, para que programas que tenham o recurso de acessibilidade, como o OKULAR, possam funcionar corretamente. Não deixe de ativar o onboard! ;) ###
 
-#
-<br></br>
+<br/>
+
 Você poderá instalar cada personagem de VOZ, **individualmente**.
     
-<br></br>
+<br/>
 Instalar **individualmente**, funciona melhor do que ter às três vozes no sistema. Para instalar a voz **da sua preferência**, basta visitar o repositório **individual**, de cada projeto.
     
-<br></br>
+<br/>
 **Para AngeloTTS -**
 https://github.com/felipefacundes/angelotts
     
@@ -114,16 +117,18 @@ https://github.com/felipefacundes/guglinatts
 **Para NordestinoTTS -**
 https://github.com/felipefacundes/nordestinotts
 
-<br></br>
+<br/>
     
 ###### Angelo é o nome do meu saudoso Pai. AngeloTTS é uma homenagem a João Angelo. Verdadeiro Pai Herói. ######
 ###### Maricota é o apelido da minha Mãe, MaricotaTTS é uma homenagem a Dona Maria. "Pequena", grande guerreira. ######
 ###### NordestinoTTS é uma homenagem, ao povo brasileiro nordestino. Pessoas maravilhosas, hospitaleiras e alegres. ######
 ###### Guglina é um acrônimo de: Google + Regina. Uma homenagem à Paulista: Regina Bittar, responsável pela voz do Google no Brasil. ######
-<br></br>
+
+<br/>
+
 #### Todo os sintetizadores, usam a licença: GPLv3 ####
 
-<br></br>
+<br/>
 
 ```
 ┏┓
