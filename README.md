@@ -109,16 +109,19 @@ Instalar **individualmente**, funciona melhor do que ter às três vozes no sist
 <br/>
 
 **Para AngeloTTS -**
-https://github.com/felipefacundes/angelotts
+*[https://github.com/felipefacundes/angelotts](https://github.com/felipefacundes/angelotts)*
+
     
 **Para MaricotaTTS -**
-https://github.com/felipefacundes/maricotatts
+*[https://github.com/felipefacundes/maricotatts](https://github.com/felipefacundes/maricotatts)*
+
     
 **Para GuglinaTTS - a VOZ que usa a API do Google Tradutor -**
-https://github.com/felipefacundes/guglinatts
+*[https://github.com/felipefacundes/guglinatts](https://github.com/felipefacundes/guglinatts)*
     
 **Para NordestinoTTS -**
-https://github.com/felipefacundes/nordestinotts
+*[https://github.com/felipefacundes/nordestinotts](https://github.com/felipefacundes/nordestinotts)*
+
 
 <br/>
     
