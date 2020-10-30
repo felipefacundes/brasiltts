@@ -2,6 +2,7 @@
 
 Brasil TTS é um conjunto de sintetizadores de voz, em **português do Brasil**, que lê telas para portadores de deficiência visual. Transforma texto em áudio, permitindo que pessoas cegas ou com baixa visão tenham acesso ao conteúdo exibido na tela. Embora o principal público-alvo de sistemas de conversão texto-fala – como o Brasil TTS – seja formado por pessoas com deficiência visual, esse tipo de programa pode ser usado por pessoas com dislexia e outras dificuldades de leitura, pessoas com deficiência severa de fala, bem como por crianças pré-alfabetizadas. Além de ser uma ferramenta de tecnologia assistiva, sintetizadores de voz podem ter ainda aplicações pedagógicas e de entretenimento.
 Está sob a égide da **licença**:
+
 ### GPLv3
     
     
@@ -102,9 +103,11 @@ cp /etc/xdg/autostart/onboard-autostart.desktop ~/.config/autostart/
 Você poderá instalar cada personagem de VOZ, **individualmente**.
     
 <br/>
+
 Instalar **individualmente**, funciona melhor do que ter às três vozes no sistema. Para instalar a voz **da sua preferência**, basta visitar o repositório **individual**, de cada projeto.
     
 <br/>
+
 **Para AngeloTTS -**
 https://github.com/felipefacundes/angelotts
     
@@ -142,3 +145,13 @@ LINUX
 ▔▏┗┻┛┃┃┗┻┛▕▔
 --------------------------
 ```
+
+----
+
+#### <a href="https://github.com/felipefacundes/mpv_thumbnail_script/"><img src="https://raw.githubusercontent.com/felipefacundes/mpv_thumbnail_script/main/docs/brazil.jpg" width="32" height="17" title="Doação" alt="Portugues Brasil"></a> Doação
+
+Se você realmente gosta disso, pode me doar via [`PayPal`](https://www.paypal.com/donate/?hosted_button_id=REU2UNGXLQQPG).
+
+#### <a href="https://github.com/felipefacundes/mpv_thumbnail_script/"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" width="32" height="17" title="Change the Lua script" alt="English"></a> Donation
+
+If you really like it, you can pay me with [`PayPal`](https://www.paypal.com/donate/?hosted_button_id=REU2UNGXLQQPG).
